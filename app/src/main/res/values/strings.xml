@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TAReign test</string>
+    <string name="floor">Floor</string>
+    <string name="wall">Wall</string>
+    <string name="tree">Tree</string>
+    <string name="barrel">Barrel</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tareign">tAReign</string>
+    <string name="build_your_own_terrain_and_project_onto_a_flat_surface">Build your own terrain and project onto a flat surface</string>
+    <string name="create_a_new_grid">Create a new grid</string>
+    <string name="load_an_old_grid">Load an old grid</string>
+    <string name="save">Save!</string>
+    <string name="go_to_ar">Augment Your Reality!</string>
+</resources>
